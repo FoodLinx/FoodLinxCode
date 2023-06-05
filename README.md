@@ -20,13 +20,66 @@ To run the server you must `cd` from the home folder through to the backend-api 
 
 The MongoDB Database
 
-The database is hosted on MongoDB free tier online server. The connection string to the database is called from the .env file which is must not be posted in this repo but must remain on our local PCs. Both the username and password are encoded into the connection string. The developer does not need to complete any further steps to be able to connect the database.
+The database is hosted on MongoDB free tier online server. The connection string to the database is called from the .env file which is must not be posted in this repo but must remain on our local PCs. Both the username and password are encoded into the connection string. The developer does not need to complete any further steps to be able to connect the database. The database uses mongoose npm package in order to connect to the database.
 
 Making Requests (using curl)
 
 Home Route (/) - `curl localhost:4000/`
 
 Api Routes
-Get all messages (/api/) - `curl localhost:4000/api/`
-Get message by Id (/api/:id) - `curl localhost:4000/api/647de7e64953c2866910dc58` replace id "647de7e64953c2866910dc58" with any other id
-Post message (/api/) - `curl -d '{"message": "Write your message here"}' -H 'Content-Type: application/json' localhost:4000/api/`
+
+- Get all messages (/api/) - `curl localhost:4000/api/`
+- Get message by Id (/api/:id) - `curl localhost:4000/api/647de7e64953c2866910dc58` replace id "647de7e64953c2866910dc58" with any other id
+- Post message (/api/) - `curl -d '{"message": "Write your message here"}' -H 'Content-Type: application/json' localhost:4000/api/`
+
+## Main Project
+
+The main project will build off the starter project and add additional routes, models, controllers and code that is required to create a full fledged UberEats clone.
+
+### Features
+
+Identity Management
+
+- Resturant Identity
+- User Identity
+- Deliverer Identity
+- Admin Identity
+- Authentication
+- Authorization
+
+Resturant Management
+
+- Menu Items and Pricing
+- Orders
+- Reviews and Ratings
+- Address
+
+User Management
+
+- View orders
+- Return Order
+- Review and Rate
+- Browse menus
+- Add items to shopping cart
+
+Deliverer Management
+
+- View orders to deliver
+- View commission
+- View delivery routes
+
+Order Management
+
+- Shopping cart
+- Order Processing
+- Payment Processing (will we make a fake payments)
+
+Delivery Management
+
+- Google Maps
+- Delivery tracking
+- Delivery status
+
+Communication
+
+- Email and SMS notifications
