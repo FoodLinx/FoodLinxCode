@@ -83,3 +83,15 @@ Delivery Management
 Communication
 
 - Email and SMS notifications
+
+### Backend (Server Side API)
+
+This section describes the workings of the backend server side service (services)
+
+### Frontend (Client Side)
+
+This section describes the workings of the frontend client side react app
+
+### Database
+
+This section describes the data store(s) of the application.
