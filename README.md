@@ -30,4 +30,3 @@ Api Routes
 Get all messages (/api/) - `curl localhost:4000/api/`
 Get message by Id (/api/:id) - `curl localhost:4000/api/647de7e64953c2866910dc58` replace id "647de7e64953c2866910dc58" with any other id
 Post message (/api/) - `curl -d '{"message": "Write your message here"}' -H 'Content-Type: application/json' localhost:4000/api/`
-
