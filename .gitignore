@@ -1,0 +1,5 @@
+#node_modules
+src/backend-api/node_modules
+
+#dotenv
+src/backend-api/.env
