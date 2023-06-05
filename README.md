@@ -1,7 +1,6 @@
-# FoodLinx !!!
-FoodLinx is an online food delivery software/app. In a world like ours where convenience and time is of the essence, we are a few clicks away from your favourite cuisine on a busy Monday and every other day. We are available 24/7 to provide your craving at 5 minutes dispatch time. We also offer what no other physical store can, variety. We have connected ourselves with over +200 local businesses and independent chefs to bring their product to the general public.
+# FoodLinx
 
-# FoodLinxCode
+FoodLinx is an online food delivery software/app. In a world like ours where convenience and time is of the essence, we are a few clicks away from your favourite cuisine on a busy Monday and every other day. We are available 24/7 to provide your craving at 5 minutes dispatch time. We also offer what no other physical store can, variety. We have connected ourselves with over +200 local businesses and independent chefs to bring their product to the general public.
 
 Source Code For FoodLinx ALX SWE Portfolio Project
 
