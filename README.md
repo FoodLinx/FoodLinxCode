@@ -16,7 +16,7 @@ As a basis for this project it will be a simple MERN (MongoDB, Express, React, N
 
 Running the Server
 
-To run the server you must `cd` from the home folder through to the backend-api folder. From there you must install all dependencies using `npm install`. When (or if) all dependencies have been installed you will be able to run the server using `npm start` or `npm run start`. This will give you the output of "Server Running: Port 4000". On your browser navigate to localhost:4000 (or use `curl localhost:4000` on a separate terminal). This will return the `{"messagae": "Hello World!"}`
+To run the server you must `cd` from the home folder through to the backend-api folder. From there you must install all dependencies using `npm install`. When (or if) all dependencies have been installed you will be able to run the server using `npm start` or `npm run start`. This will give you the output of "Server Running: Port 4000". On your browser navigate to localhost:4000 (or use `curl localhost:4000` on a separate terminal). This will return the `{"message": "Hello World!"}`
 
 The MongoDB Database
 
