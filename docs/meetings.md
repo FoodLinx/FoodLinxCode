@@ -18,6 +18,6 @@ Team Selection
 
 Deadlines
 
-List of features by 6th June 2023 20:00
-All coding done by 14th June 2023 20:00
-Portfolio Pitch on the 6th June 2023 20:00 at the meeting
+- List of features by 6th June 2023 20:00
+- All coding done by 14th June 2023 20:00
+- Portfolio Pitch on the 6th June 2023 20:00 at the meeting
